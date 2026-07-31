@@ -6,8 +6,8 @@
 %global crate terminfo
 
 Name:           rust-%{crate}
-Version:        0.6.1
-Release:        3%{?dist}
+Version:        0.9.0
+Release:        1%{?dist}
 Summary:        Terminal information
 
 # https://github.com/meh/rust-terminfo/issues/9
